@@ -1,24 +1,18 @@
-# 👋 Hello, I'm [郝跃强]
+# 👋 Hello, I'm Hao Yueqiang
 
-### 🚀 关于我
-- 🌱 我正在深入学习：**LLM Agent 开发、大模型微调与工程化**
-- 👨‍💻 目前坐标：**[]**
-- 🔭 我的方向：**AI 应用开发 / 智能体系统 / 数据智能**
-- 📫 如何联系我：**[17301744398@163.com]**
-- 🔗 我的技术主页：**[[CSDN](https://blog.csdn.net/qq_35361115?type=blog)]**
-
----
-
-### 🔥 我的技术栈与技能
-- **编程语言**：Python (Main), Java, SQL
-- **AI/大模型方向**：LLM Fine-tuning, Prompt Engineering, Multi-Agent Systems
-- **工具/平台**：Git, Docker, 讯飞星火 MaaS, Jupyter Notebook
-- **理念**：让技术落地，让 AI 创造价值
+### 🚀 About Me
+- 🌱 I’m currently learning: **LLM Agent Development, LLM Fine-tuning & Engineering**
+- 👨‍💻 Current Location: **Shanghai, China**
+- 🔭 My Focus: **AI Application Development / Multi-Agent Systems / Data Intelligence**
+- 📫 How to reach me: **17301744398@163.com**
+- 🔗 My Technical Blog: **[CSDN](https://blog.csdn.net/qq_35361115?type=blog)**
 
 ---
 
-### 📊 我的 GitHub 数据
-![我的 GitHub 统计](https://github-readme-stats.vercel.app/api?username=[haoyueqiang]&show_icons=true&theme=radical)
-![我的语言统计](https://github-readme-stats.vercel.app/api/top-langs/?username=[haoyueqiang]&layout=compact&theme=radical)
+### 🔥 Tech Stack & Skills
+- **Programming Languages**: Python (Main), Java, SQL
+- **AI/LLM Fields**: LLM Fine-tuning, Prompt Engineering, Multi-Agent Systems
+- **Tools & Platforms**: Git, Docker, iFlytek Spark MaaS, Jupyter Notebook
+- **Philosophy**: Make technology land, let AI create value
 
 ---
